@@ -12,7 +12,7 @@ import { filters, findByPropsLazy, findComponentByCodeLazy, mapMangledModuleLazy
 import {
     ChannelStore,
     FluxDispatcher,
-    Icons,
+    Icon,
     Menu,
     MessageActions,
     PermissionsBits,
